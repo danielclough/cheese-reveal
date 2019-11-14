@@ -379,7 +379,20 @@ small {
   display: grid;
 }
 
+/*
+####################
+## Harney-Logo    ##
+####################
+*/
 
+#harney-logo img {
+  height: 45vh;
+  border: none !important;
+  padding: 5% 5% 5% 5% ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
 #harney-text ul {
   font-size: 75%;
