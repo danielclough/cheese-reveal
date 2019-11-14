@@ -379,58 +379,6 @@ small {
   display: grid;
 }
 
-/*
-########################
-## Immodestea-Logo    ##
-########################
-*/
-
-#immodestea-logo img {
-  margin: auto;
-  border: none !important;
-  width: 45vw;
-  float: left;
-}
-@media screen and (max-width: 992px) {
-  #immodestea-logo img {
-  margin: auto;
-	height:40%;
-
-  }}
-
-#immodestea-text {
-  margin: auto;
-  }
-
-@media screen and (max-width: 992px) {
-  #immodestea-text {
-  margin: auto;
-  }}
-
-#immodestea-text ul {
-}
-
-/*
-####################
-## Harney-Logo    ##
-####################
-*/
-
-#harney-logo img {
-  height: 45vh;
-  border: none !important;
-  padding: 5% 5% 5% 5% ;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-@media screen and (max-width: 992px) {
-  #harney-logo img {
-  width: 95% !important;
-    padding: 5% 5% 5% 5% !important ;
-    margin-left: auto;
-    margin-right: auto;     
-  }}
 
 
 #harney-text ul {
