@@ -421,9 +421,9 @@ small {
   border: none !important;
   padding: 5% 5% 5% 5% ;
     top: 50%;
-    margin-left: 50%;
-    margin-right: 50%;
-    transform: translate(-50%, -50%)
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 @media screen and (max-width: 992px) {
   #harney-logo img {
@@ -435,21 +435,6 @@ small {
     margin-right: 0%;     
   }}
 
-#harney-text {
-  padding: 15% 0 1% 0 !important;
-    margin-left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
-}
-
-@media screen and (max-width: 992px) {
-  #harney-text {
-  width: 95% !important;
-    top: 60%;
-    margin-left: 50%;
-    margin-right: 50%;    
-  font-size: 200%;
-  }}
 
 #harney-text ul {
   font-size: 75%;
