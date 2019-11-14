@@ -417,7 +417,7 @@ small {
 */
 
 #harney-logo img {
-  width: 50% !important;
+  height: 50vh;
   border: none !important;
   padding: 5% 5% 5% 5% ;
     top: 50%;
