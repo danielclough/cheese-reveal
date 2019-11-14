@@ -1,0 +1,4 @@
+_site/temp/**
+tmp/**
+node_modules/
+.sass-cache
